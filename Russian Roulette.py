@@ -2,6 +2,7 @@ import random
 pos_b = random.randint(0,5)
 pos_p = 0
 
+print("Russian Roulette by AndyLynx007")
 start = input("Press enter to start:")
 
 while quit != "q":
